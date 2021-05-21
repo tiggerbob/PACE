@@ -6,7 +6,7 @@
 * Word step (ex: a step of 2 would skip over every other word; a step of -1 would list every word except in reverse order, etc.) 
 * Character count (character count of the secret message, starts at 0)  
 
-Example  
+### Example  
 **Text:** `Horribly, everyone laughed lightly over Wendy's orchestrated return, like dolls.`  
   
 **Parameters:**  
